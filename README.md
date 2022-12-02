@@ -7,7 +7,7 @@ I have worked in the most part of my carrer developing back end services and usi
 Where can you find me?
 
 <div>
-  <a href="https://www.linkedin.com/in/miguel-augusto/?locale=en_US" rel="nofollow">
+  <a href="https://www.linkedin.com/in/angelorrsilva/?locale=en_US" rel="nofollow">
     <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="Linkedin Badge" 
