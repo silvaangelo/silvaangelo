@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá 👋✨🇧🇷
 
-<!--
-**silvaangelo/silvaangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with +5 years of experience, today i'm living in Sorocaba - São Paulo. Currently working at Eduzz, a giant plataform to digital marketing business.
 
-Here are some ideas to get you started:
+I have worked in the most part of my carrer developing back end services and using languages such as Javascript, PHP, Python and Java, i have experience working with Front End in pair with others most experienced Front End Developers and some own projects with React and VueJs, i also have experience with deploy and infraestructure/cloud managing with tools like AWS, CI & CD, Git, Docker, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Where can you find me?
+
+<div>
+  <a href="https://www.linkedin.com/in/miguel-augusto/?locale=en_US" rel="nofollow">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="Linkedin Badge" 
+      style="max-width:100%;"
+    />
+  </a>
+</div>
