@@ -2,7 +2,7 @@
 
 Software Engineer with +5 years of experience, today i'm living in Sorocaba - São Paulo. Currently working at Eduzz, a giant plataform to digital marketing business.
 
-I have worked in the most part of my carrer developing back end services and using languages such as Javascript, PHP, Python and Java, i have experience working with Front End in pair with others most experienced Front End Developers and some own projects with React and VueJs, i also have experience with deploy and infraestructure/cloud managing with tools like AWS, CI & CD, Git, Docker, etc.
+I have worked in the most part of my carrer developing back end services and using languages such as Javascript, PHP and Java, i have experience working with Front End in pair with others most experienced Front End Developers and some own projects with React, i also have experience with deploy and infraestructure/cloud managing with tools like AWS, CI & CD, Git, Docker, etc.
 
 Where can you find me?
 
